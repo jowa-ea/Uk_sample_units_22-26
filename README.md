@@ -1,9 +1,9 @@
-## Ukraine_annotated_sample_units_22-23-24-25
+## Ukraine_annotated_sample_units_22-23-24-25-26
 
 This repository contains publicly available annotated sample points for seasons 2022 to 2025.
 
 ### Metadata
-Each geopackage contains annotated points for seasons 2022 to 2025 and has 10 attributes:\
+Each geopackage contains annotated points for seasons 2022 to 2026 and has 10 attributes:\
 
 **lat** (float) latitude of the point \
 **lon** (float) longitude of the point \
