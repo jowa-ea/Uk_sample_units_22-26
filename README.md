@@ -1,6 +1,6 @@
 ## Ukraine_annotated_sample_units_22-23-24-25-26
 
-This repository contains publicly available annotated sample points for seasons 2022 to 2025.
+This repository contains publicly available annotated sample points for seasons 2022 to 2025 and is licensed under the CC BY 4.0 license.
 
 ### Metadata
 Each geopackage contains annotated points for seasons 2022 to 2026 and has 10 attributes:\
